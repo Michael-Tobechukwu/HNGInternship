@@ -1,2 +1,2 @@
 # HNGInternship
-Stage submission for HNG Internship
+Stage 2 submission for HNG Internship
